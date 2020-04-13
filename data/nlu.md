@@ -56,7 +56,7 @@
 - What distance, should I keep from other people?
 - Can I get infected from an handshake?
 - Can I get infected with a kiss?
-- Can I go to events? 
+- Can I go to events?
 
 ## intent:faq/ask_affected_countries
 - What are the most affected countries ?
